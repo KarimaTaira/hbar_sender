@@ -30,5 +30,5 @@ A simple Node.js script to send HBAR from one Hedera account to another using en
 
 4. **Run script:**
 ```bash
-    node index.js
+    node send_hbar.js 
 ````
